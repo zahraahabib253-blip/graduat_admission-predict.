@@ -43,5 +43,6 @@ plt.ylabel('Frequency')
 
 plt.tight_layout()
 plt.show()
-##App preview
+```
+## App preview
 ![App Preview](app.png)
