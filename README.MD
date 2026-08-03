@@ -9,7 +9,6 @@ This project implements a Linear Regression model to predict values and compares
 * Trains a regression model on test data.
 * Evaluates performance by comparing real vs. predicted outputs.
 * Visualizes data distributions using `Matplotlib`.
-
 ---
 
 ## 🛠️ Technologies Used
@@ -44,3 +43,5 @@ plt.ylabel('Frequency')
 
 plt.tight_layout()
 plt.show()
+##App preview
+![App Preview](app.png)
