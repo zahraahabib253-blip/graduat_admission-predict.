@@ -43,5 +43,6 @@ plt.ylabel('Frequency')
 
 plt.tight_layout()
 plt.show()
+``` mark dowwn
 ##App preview
 ![App Preview](app.png)
